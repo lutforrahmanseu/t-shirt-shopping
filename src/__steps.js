@@ -11,7 +11,7 @@ Basic router setup
 */
 /* context API
 1.declare a context
-2.set provider with a value
+2.set provider with a value[array ,object,single value ]
 3.useContext in the place where you want to get the context
 
 
